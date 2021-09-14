@@ -1,0 +1,151 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#div1 {
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  position: relative;
+  top: 0px;
+}
+.href1 {
+  color: black;
+  text-decoration: none;
+  position: relative;
+  top: 28px;
+  left: 130px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  flex-direction: row;
+  padding-right: 25px;
+}
+#btn1 {
+  width: 106px;
+  height: 44px;
+  font-size: 15px;
+  position: relative;
+  top: 15px;
+  left: 145px;
+  border-radius: 8px;
+}
+#btn1:hover {
+  background-color: brown;
+  opacity: 0.8;
+}
+#p1 {
+  position: relative;
+  top: 30px;
+  left: 18px;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: maroon;
+}
+#img1 {
+  width: 100%;
+  height: 544px;
+}
+#p2 {
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+}
+#p3 {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: rgb(77, 77, 110);
+}
+#img2 {
+  width: 375px;
+  height: 500px;
+  position: relative;
+  top: -2300px;
+  left: 970px;
+  opacity: 0.8;
+}
+.p4 {
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bolder;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  position: relative;
+  left: -450px;
+  color: rgb(82, 34, 114);
+}
+.p5 {
+  padding-inline-end: 200px;
+  padding-left: 20px;
+  font-size: 20px;
+  text-align: justify;
+}
+.li1 {
+  font-size: 20px;
+  text-align: justify;
+  position: relative;
+  left: 45px;
+}
+.li12 {
+  font-size: 20px;
+  text-align: justify;
+  position: relative;
+  left: 45px;
+}
+#p6 {
+  font-weight: bolder;
+  font-size: 18px;
+  position: relative;
+  left: 250px;
+}
+#ahref9 {
+  position: relative;
+  top: 50px;
+  left: 280px;
+  font-size: 15px;
+  text-decoration: none;
+}
+#ahref10 {
+  position: relative;
+  top: -30px;
+  left: 890px;
+  font-size: 15px;
+  text-decoration: none;
+}
+#last {
+  position: relative;
+  top: -90px;
+  left: 890px;
+  font-size: 20px;
+}
+#img6 {
+  width: 375px;
+  height: 500px;
+  position: relative;
+  bottom: 2085px;
+  left: 900px;
+  opacity: 0.8;
+}
+
+#last1 {
+  font-size: 20px;
+  position: relative;
+  top: -10px;
+  left: 280px;
+}
+#sm1 {
+  position: relative;
+  left: -585px;
+}
+.mydiv11 {
+  border-bottom: none;
+  border-top: none;
+  border-right: none;
+  border-left: 2px solid rgb(0,0,0,0.7);
+  position: relative;
+  left: 150px;
+}
+
